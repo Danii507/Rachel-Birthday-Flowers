@@ -33,6 +33,7 @@ var lyricsData = [
   { text: "La-da-da-da-da, da-da-da", time: 165.66 },
   { text: "La-da-da-da-da, da-da-da", time: 169.34 },
   { text: "Oh-oh-oh, oh-oh-oh, mmm", time: 172.58 }
+  { text: "", time: 173 }
 ];
 
 // Función para actualizar las letras de forma fluida
